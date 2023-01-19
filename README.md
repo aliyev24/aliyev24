@@ -12,7 +12,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![Pycharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=flat-square)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual%20studio%20code&logoColor=white&style=flat-square)
 
 
 ### Front-end 
