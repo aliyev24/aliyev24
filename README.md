@@ -13,4 +13,4 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![Pycharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=flat-square)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aliyev24"/>
